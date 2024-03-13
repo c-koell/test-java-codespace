@@ -19,4 +19,9 @@ public class AppTest
     {
         assertTrue( true );
     }
+
+    @Test
+    public void machMalWa() {
+        assertTrue(true);
+    }
 }
