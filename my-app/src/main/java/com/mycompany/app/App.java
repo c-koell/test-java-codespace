@@ -13,4 +13,8 @@ public class App {
     public void feature1() {
         System.out.println("hello world");
     }
+    
+    public void machmal() {
+        System.out.println("machmal");
+    }
 }
