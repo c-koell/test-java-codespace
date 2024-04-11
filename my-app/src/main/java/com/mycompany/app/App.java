@@ -9,4 +9,8 @@ public class App {
         System.out.println("Hello World!");
         System.out.println("Das ist echt cool !444");
     }
+
+    public void feature1() {
+        System.out.println("hello world");
+    }
 }
