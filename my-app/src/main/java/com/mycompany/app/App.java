@@ -1,8 +1,5 @@
 package com.mycompany.app;
 
-import java.util.HashSet;
-import java.util.Set;
-
 /**
  * Hello world!
  *
