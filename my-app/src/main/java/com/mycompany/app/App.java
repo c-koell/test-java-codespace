@@ -19,6 +19,6 @@ public class App {
     }
 
     public void feature2() {
-        System.out.println("hallo du");
+        System.out.println("hallo du, da");
     }
 }
